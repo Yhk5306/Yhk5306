@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @Yhk5306
-- 👀 I’m interested in Gaming,Coding,eating 
-- 🌱 I’m currently learning vue
-- 📫 How to reach me I dont know either
-
-<!---
-Yhk5306/Yhk5306 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img align="left" width="200" src="https://github.com/Yhk5306/Yhk5306/blob/main/448aba022ec150633e1844d9412ede0c.gif"> 
+  👨🏼‍💻 Love with JS <br>
+  🎮 Currently Playing : Apex Legends , Gow Ragnarök ,<br>
+  ⚽ Football : Real Madrid <br>
+  <br>
+  <br>
+  <br>
+  📩 Email : yusufkotiloglu@gmail.com <br>
+  📡 Reddit : https://www.reddit.com/user/yhkdaking53
+  
