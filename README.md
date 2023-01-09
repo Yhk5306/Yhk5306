@@ -16,7 +16,6 @@
 
  * <img align="left" alt="bitb" width="15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Heart_coraz%C3%B3n.svg/800px-Heart_coraz%C3%B3n.svg.png" />Love with JS <br>
  * <img align="left" alt="bitb" width="15px" src="https://seeklogo.com/images/A/apex-logo-C3478A4601-seeklogo.com.png" /> Currently Playing : Apex Legends , Gow Ragnarök ,<br>
- * <img align="left" alt="bitb" width="15px" src="https://upload.wikimedia.org/wikipedia/tr/archive/9/98/20220530202522%21Real_Madrid.png" /> Football : Real Madrid <br>
  * 📩 Email : yusufkotiloglu@gmail.com <br>
  * <img align="left" alt="bitb" width="15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" /> stackoverflow : https://stackoverflow.com/users/14419885/yhkdaking
  * <img align="left" alt="bitb" width="15px" src="https://cpwebassets.codepen.io/assets/social/facebook-default-05cf522ae1d4c215ae0f09d866d97413a2204b6c9339c6e7a1b96ab1d4a7340f.png" /> Codepen : https://codepen.io/yhkdaking
