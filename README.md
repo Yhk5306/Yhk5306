@@ -15,7 +15,6 @@
 ### About Me:
 
  * <img align="left" alt="bitb" width="15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Heart_coraz%C3%B3n.svg/800px-Heart_coraz%C3%B3n.svg.png" />Love with JS <br>
- * <img align="left" alt="bitb" width="15px" src="https://image.api.playstation.com/vulcan/ap/rnd/202107/3100/yIa8STLMmCyhj48fGDpaAuRM.jpg" /> Currently Playing : Horizon Forbidden West<br>
  * 📩 Email : yusufkotiloglu@gmail.com <br>
  * <img align="left" alt="bitb" width="15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" /> stackoverflow : https://stackoverflow.com/users/14419885/yhkdaking
  * <img align="left" alt="bitb" width="15px" src="https://assets.codepen.io/1584356/codepen.png" /> Codepen : https://codepen.io/yhkdaking
